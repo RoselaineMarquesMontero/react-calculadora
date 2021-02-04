@@ -7,7 +7,7 @@
   font-family: 'RobotoMono', monospace;
 }
 
-body{
+/* body{
   display: flex;
   height: 100vh;
   justify-content: center;
@@ -16,4 +16,4 @@ body{
 
   color: #fff;
   background: linear-gradient(to right, rgb(52, 148, 230), rgb(236, 110, 173));
-}
+} */
